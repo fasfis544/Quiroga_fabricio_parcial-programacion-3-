@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Frutería</title>
+  <link rel="stylesheet" href="fruteria.css">
+</head>
+<body>
+  <nav class="navbar">
+    <span>
+🍇 🥭 🍏Frutería 🍉 🍌 🍊</span>
+    <span id="nombre-alumno"></span>
+<input type="text" id="inputBuscar" placeholder="que fruta comes hoy? ...">
+    <span id="contador-carrito">Carrito: 0 productos</span>
+  </nav>
+
+  <main>
+    <section class="productos">
+      <div class="titulo-botones">
+        <h2>Nuestras frutas</h2>
+        <div>
+          <button id="ordenar-nombre">Ordenar por nombre</button>
+          <button id="ordenar-precio">Ordenar por precio</button>
+        </div>
+      </div>
+      <div id="contenedor-productos" class="contenedor-productos"></div>
+    </section>
+
+    <section class="carrito">
+      <h2>Carrito</h2>
+      <ul id="lista-carrito"></ul>
+      <button id="vaciar-carrito" class="vaciar">Vaciar carrito</button>
+      <p id="total">Total: $0</p>
+    </section>
+  </main>
+
+  <script src="fruteria.js"></script>
+</body>
+</html>
