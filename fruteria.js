@@ -1,16 +1,16 @@
 //Array de frutas
 
 const frutas = [
-  { id: 1, nombre: "arandano", precio: 5000, imagen: "img/arandano.jpg" },
-  { id: 2, nombre: "banana", precio: 1000, imagen: "img/banana.jpg" },
-  { id: 3, nombre: "frambuesa", precio: 4000, imagen: "img/frambuesa.jpg" },
-  { id: 4, nombre: "frutilla", precio: 3000, imagen: "img/frutilla.jpg" },
-  { id: 5, nombre: "kiwi", precio: 2000, imagen: "img/kiwi.jpg" },
-  { id: 6, nombre: "mandarina", precio: 800, imagen: "img/mandarina.jpg" },
-  { id: 7, nombre: "manzana", precio: 1500, imagen: "img/manzana.jpg" },
-  { id: 8, nombre: "naranja", precio: 2000, imagen: "img/naranja.jpg" },
-  { id: 9, nombre: "pera", precio: 2500, imagen: "img/pera.jpg" },
-  { id: 10, nombre: "anana", precio: 3000, imagen: "img/anana.jpg" },
+  { id: 1, nombre: "arandanos", precio: 5000, imagen: "img/arandano.jpg" },
+  { id: 2, nombre: "bananas", precio: 1000, imagen: "img/banana.jpg" },
+  { id: 3, nombre: "frambuesas", precio: 4000, imagen: "img/frambuesa.jpg" },
+  { id: 4, nombre: "frutillas", precio: 3000, imagen: "img/frutilla.jpg" },
+  { id: 5, nombre: "kiwis", precio: 2000, imagen: "img/kiwi.jpg" },
+  { id: 6, nombre: "mandarinas", precio: 800, imagen: "img/mandarina.jpg" },
+  { id: 7, nombre: "manzanas", precio: 1500, imagen: "img/manzana.jpg" },
+  { id: 8, nombre: "naranjas", precio: 2000, imagen: "img/naranja.jpg" },
+  { id: 9, nombre: "peras", precio: 2500, imagen: "img/pera.jpg" },
+  { id: 10, nombre: "ananas", precio: 3000, imagen: "img/anana.jpg" },
   { id: 11, nombre: "pomelo-amarillo", precio: 2000, imagen: "img/pomelo-amarillo.jpg" },
   { id: 12, nombre: "pomelo-rojo", precio: 2000, imagen: "img/pomelo-rojo.jpg" },
   { id: 13, nombre: "granada", precio: 3500, imagen: "img/granada.jpg" }
